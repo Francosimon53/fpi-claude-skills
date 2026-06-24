@@ -1,0 +1,15 @@
+{
+  "name": "fpi-skills",
+  "owner": { "name": "Simon Franco" },
+  "version": "1.0.0",
+  "description": "FPI Enterprises agent skills para Claude Code y Cowork.",
+  "plugins": [
+    {
+      "name": "fpi",
+      "source": "./plugins/fpi",
+      "description": "Loop-driver toolkit: /goal, /loop, /ship.",
+      "version": "1.0.0",
+      "keywords": ["loop", "automation", "workflow", "guardrails", "tdd"]
+    }
+  ]
+}

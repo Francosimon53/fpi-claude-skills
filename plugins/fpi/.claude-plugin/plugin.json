@@ -1,0 +1,9 @@
+{
+  "name": "fpi",
+  "description": "Loop-driver toolkit. /goal fija un objetivo verificable, /loop itera hacia el con frenos duros, /ship lleva tests + tipos + lint + build a verde y se detiene en un mensaje de commit para revision.",
+  "version": "1.0.0",
+  "author": { "name": "Simon Franco" },
+  "homepage": "https://github.com/Francosimon53/fpi-claude-skills",
+  "repository": "https://github.com/Francosimon53/fpi-claude-skills",
+  "license": "MIT"
+}
